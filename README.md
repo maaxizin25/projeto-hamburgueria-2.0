@@ -1,1 +1,1 @@
-LINK: https://github.com/Kenzie-Academy-Brasil-Developers/hamb-completa-max
+LINK: https://hamb-completa-max.vercel.app/
